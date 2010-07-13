@@ -25,6 +25,5 @@ Note that the second boolean argument 'True' is not needed, as it is assumed by 
 Limitations
 -----------
 
- * At this time, TracSubPages does not support international/unicode characters.
  * A wiki page needs to exist before you link to it with a subpage macro. This may seem obvious, but the error caused by a broken link isn't very descriptive (yet).
  * Please use only wiki formatting for subpages. The use of macros can (and probably will) cause errors.

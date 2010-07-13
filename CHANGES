@@ -1,6 +1,10 @@
 Change History
 ==============
 
+0.4(2010-07-13)
+---------------
+* Fixed unicode bug that caused errors when given non-ASCII characters
+
 0.3(2010-01-10)
 ---------------
  * All code adheres to `PEP 8 <http://www.python.org/dev/peps/pep-0008/>`_ standards [jetheis]
