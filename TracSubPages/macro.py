@@ -76,4 +76,4 @@ class SubPageMacro(Component):
         link_tag = ('<p><a href="%s?action=edit" class="wiki">Edit Section</a>'
                     '</p>' % (target_url))
 
-        return str(body) + (edit_link and link_tag or '')
+        return unicode(body) + (edit_link and link_tag or '')
