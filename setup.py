@@ -4,7 +4,7 @@ use_setuptools()
 from setuptools import setup, find_packages
 
 setup(name='TracSubPages',
-      version='0.5dev',
+      version='0.5',
       packages=find_packages(exclude=''),
       package_data={},
       author='Jimmy Theis',
