@@ -1,6 +1,10 @@
 Change History
 ==============
 
+0.5(2011-03-03)
+---------------
+ * Begin using MANIFEST.in in the absence of a Subversion repository
+
 0.4(2010-07-13)
 ---------------
  * Fixed unicode bug that caused errors when given non-ASCII characters [jetheis]
