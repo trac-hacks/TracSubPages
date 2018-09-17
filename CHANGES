@@ -1,6 +1,11 @@
 Change History
 ==============
 
+1.0(2018-09-16)
+---------------
+ * Make compatible with Trac 1.0
+ * Removed ``ez_setup.py`` since Trac requires setuptools
+
 0.5(2011-03-03)
 ---------------
  * Begin using MANIFEST.in in the absence of a Subversion repository
@@ -23,4 +28,3 @@ Change History
 0.1(2009-08-11)
 ---------------
  * Initial release of plugin [jetheis]
-
